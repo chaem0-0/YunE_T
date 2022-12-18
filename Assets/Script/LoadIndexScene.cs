@@ -15,7 +15,7 @@ public class LoadIndexScene : MonoBehaviour
             i++;
             if (i%2==1)
             {
-                SceneManager.LoadScene("Index");
+                SceneManager.LoadScene(3);
             }
             else if (i % 2 == 0)
             {
