@@ -580,22 +580,22 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<\uC9C0\uC0C1> \r\n\r\n1.\uC9C0\uD615 \uB9CC\uB4E4\uAE30 \r\n\r\nTerrain
-    \uC624\uBE0C\uC81D\uD2B8\uB97C \uC52C\uC5D0 \uCD94\uAC00\uD560 \uC218 \uC788\uB294\uAC00? 
-    \r\n\r\nPaint Terrain\uC758 Raise or Lower Terrain\uC744 \uC0AC\uC6A9\uD558\uC5EC
-    \uC9C0\uD615\uC758 \uACE0\uC800\uB97C \uD45C\uD604\uD560 \uC218 \uC788\uB294\uAC00? 
-    \r\n\r\nPaint Terrain\uC758 Paint Texture\uB85C 3\uAC1C \uC774\uC0C1\uC758 Layer\uB97C
-    \uB9CC\uB4E4\uACE0 Terrain\uC5D0 \uCE60\uD560 \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint
-    Terrain\uC758 Set Height\uB85C \uC77C\uC815\uD55C \uB192\uC774\uC758 \uD3C9\uC9C0\uB97C
-    \uB9CC\uB4E4 \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Terrain\uC758 Smooth Height\uB85C
-    \uC9C0\uD615\uC758 \uACE0\uC800\uB97C \uC644\uB9CC\uD558\uAC8C \uCC98\uB9AC\uD560
-    \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Tree\uB85C 3\uAC1C \uC774\uC0C1\uC758
-    Tree\uB97C Terrain\uC5D0 \uADF8\uB9B4 \uC218 \uC788\uB294\uAC00? -> Birch_tree1,
-    Birch_tree2, Oak_tree1, Flower1, Flower2, Conifer_Desktop, Broadleaf_Desktop
-    \r\n\r\nWater\uB97C \uD65C\uC6A9\uD558\uC5EC \uAC15, \uD638\uC218, \uBC14\uB2E4
-    \uB4F1\uC744 \uD45C\uD604\uD560 \uC218 \uC788\uB294\uAC00? -> \uAC15 \r\n\r\nWind
-    Zone\uC744 \uD65C\uC6A9\uD558\uC5EC \uBC14\uB78C \uD6A8\uACFC\uB97C \uB9CC\uB4E4
-    \uC218 \uC788\uB294\uAC00? -> WindZone \r "
+  m_Text: "<\uC9C0\uC0C1> \r:\uAC15\uBBFC\uC9C0\n\r\n1.\uC9C0\uD615 \uB9CC\uB4E4\uAE30
+    \r\n\r\nTerrain \uC624\uBE0C\uC81D\uD2B8\uB97C \uC52C\uC5D0 \uCD94\uAC00\uD560
+    \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Terrain\uC758 Raise or Lower Terrain\uC744
+    \uC0AC\uC6A9\uD558\uC5EC \uC9C0\uD615\uC758 \uACE0\uC800\uB97C \uD45C\uD604\uD560
+    \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Terrain\uC758 Paint Texture\uB85C 3\uAC1C
+    \uC774\uC0C1\uC758 Layer\uB97C \uB9CC\uB4E4\uACE0 Terrain\uC5D0 \uCE60\uD560
+    \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Terrain\uC758 Set Height\uB85C \uC77C\uC815\uD55C
+    \uB192\uC774\uC758 \uD3C9\uC9C0\uB97C \uB9CC\uB4E4 \uC218 \uC788\uB294\uAC00? 
+    \r\n\r\nPaint Terrain\uC758 Smooth Height\uB85C \uC9C0\uD615\uC758 \uACE0\uC800\uB97C
+    \uC644\uB9CC\uD558\uAC8C \uCC98\uB9AC\uD560 \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint
+    Tree\uB85C 3\uAC1C \uC774\uC0C1\uC758 Tree\uB97C Terrain\uC5D0 \uADF8\uB9B4 \uC218
+    \uC788\uB294\uAC00? -> Birch_tree1, Birch_tree2, Oak_tree1, Flower1, Flower2,
+    Conifer_Desktop, Broadleaf_Desktop \r\n\r\nWater\uB97C \uD65C\uC6A9\uD558\uC5EC
+    \uAC15, \uD638\uC218, \uBC14\uB2E4 \uB4F1\uC744 \uD45C\uD604\uD560 \uC218 \uC788\uB294\uAC00?
+    -> \uAC15 \r\n\r\nWind Zone\uC744 \uD65C\uC6A9\uD558\uC5EC \uBC14\uB78C \uD6A8\uACFC\uB97C
+    \uB9CC\uB4E4 \uC218 \uC788\uB294\uAC00? -> WindZone \r "
 --- !u!222 &1201838261
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -675,22 +675,22 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "<\uC9C0\uC0C1> \r\n\r\n1.\uC9C0\uD615 \uB9CC\uB4E4\uAE30 \r\n\r\nTerrain
-    \uC624\uBE0C\uC81D\uD2B8\uB97C \uC52C\uC5D0 \uCD94\uAC00\uD560 \uC218 \uC788\uB294\uAC00? 
-    \r\n\r\nPaint Terrain\uC758 Raise or Lower Terrain\uC744 \uC0AC\uC6A9\uD558\uC5EC
-    \uC9C0\uD615\uC758 \uACE0\uC800\uB97C \uD45C\uD604\uD560 \uC218 \uC788\uB294\uAC00? 
-    \r\n\r\nPaint Terrain\uC758 Paint Texture\uB85C 3\uAC1C \uC774\uC0C1\uC758 Layer\uB97C
-    \uB9CC\uB4E4\uACE0 Terrain\uC5D0 \uCE60\uD560 \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint
-    Terrain\uC758 Set Height\uB85C \uC77C\uC815\uD55C \uB192\uC774\uC758 \uD3C9\uC9C0\uB97C
-    \uB9CC\uB4E4 \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Terrain\uC758 Smooth Height\uB85C
-    \uC9C0\uD615\uC758 \uACE0\uC800\uB97C \uC644\uB9CC\uD558\uAC8C \uCC98\uB9AC\uD560
-    \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Tree\uB85C 3\uAC1C \uC774\uC0C1\uC758
-    Tree\uB97C Terrain\uC5D0 \uADF8\uB9B4 \uC218 \uC788\uB294\uAC00? -> Birch_tree1,
-    Birch_tree2, Oak_tree1, Flower1, Flower2, Conifer_Desktop, Broadleaf_Desktop
-    \r\n\r\nWater\uB97C \uD65C\uC6A9\uD558\uC5EC \uAC15, \uD638\uC218, \uBC14\uB2E4
-    \uB4F1\uC744 \uD45C\uD604\uD560 \uC218 \uC788\uB294\uAC00? -> \uAC15 \r\n\r\nWind
-    Zone\uC744 \uD65C\uC6A9\uD558\uC5EC \uBC14\uB78C \uD6A8\uACFC\uB97C \uB9CC\uB4E4
-    \uC218 \uC788\uB294\uAC00? -> WindZone \r "
+  m_Text: "<\uC9C0\uC0C1> :\uAC15\uBBFC\uC9C0 \r\n\r\n1.\uC9C0\uD615 \uB9CC\uB4E4\uAE30
+    \r\n\r\nTerrain \uC624\uBE0C\uC81D\uD2B8\uB97C \uC52C\uC5D0 \uCD94\uAC00\uD560
+    \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Terrain\uC758 Raise or Lower Terrain\uC744
+    \uC0AC\uC6A9\uD558\uC5EC \uC9C0\uD615\uC758 \uACE0\uC800\uB97C \uD45C\uD604\uD560
+    \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Terrain\uC758 Paint Texture\uB85C 3\uAC1C
+    \uC774\uC0C1\uC758 Layer\uB97C \uB9CC\uB4E4\uACE0 Terrain\uC5D0 \uCE60\uD560
+    \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint Terrain\uC758 Set Height\uB85C \uC77C\uC815\uD55C
+    \uB192\uC774\uC758 \uD3C9\uC9C0\uB97C \uB9CC\uB4E4 \uC218 \uC788\uB294\uAC00? 
+    \r\n\r\nPaint Terrain\uC758 Smooth Height\uB85C \uC9C0\uD615\uC758 \uACE0\uC800\uB97C
+    \uC644\uB9CC\uD558\uAC8C \uCC98\uB9AC\uD560 \uC218 \uC788\uB294\uAC00?  \r\n\r\nPaint
+    Tree\uB85C 3\uAC1C \uC774\uC0C1\uC758 Tree\uB97C Terrain\uC5D0 \uADF8\uB9B4 \uC218
+    \uC788\uB294\uAC00? -> Birch_tree1, Birch_tree2, Oak_tree1, Flower1, Flower2,
+    Conifer_Desktop, Broadleaf_Desktop \r\n\r\nWater\uB97C \uD65C\uC6A9\uD558\uC5EC
+    \uAC15, \uD638\uC218, \uBC14\uB2E4 \uB4F1\uC744 \uD45C\uD604\uD560 \uC218 \uC788\uB294\uAC00?
+    -> \uAC15 \r\n\r\nWind Zone\uC744 \uD65C\uC6A9\uD558\uC5EC \uBC14\uB78C \uD6A8\uACFC\uB97C
+    \uB9CC\uB4E4 \uC218 \uC788\uB294\uAC00? -> WindZone \r "
 --- !u!222 &1275389909
 CanvasRenderer:
   m_ObjectHideFlags: 0
