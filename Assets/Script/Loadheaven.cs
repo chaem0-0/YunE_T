@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class Loadheaven : MonoBehaviour
 {
-    public Object SceneToLoad;
 
     private void OnMouseDown()
     {
