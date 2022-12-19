@@ -4307,6 +4307,8 @@ GameObject:
   - component: {fileID: 639326655}
   - component: {fileID: 652529471}
   - component: {fileID: 650884543}
+  - component: {fileID: 649538656}
+  - component: {fileID: 649538657}
   m_Layer: 0
   m_Name: FPSController
   m_TagString: Untagged
@@ -4314,6 +4316,30 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &649538656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 649538655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 979cca652699f96489a6f3cc17997e89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &649538657
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 649538655}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c94023ba8076fa343809cd337152729f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!82 &650884543
 AudioSource:
   m_ObjectHideFlags: 0

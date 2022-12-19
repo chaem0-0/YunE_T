@@ -5,7 +5,6 @@ using UnityEngine.SceneManagement;
 
 public class LoadIndexScene : MonoBehaviour
 {
-    public Object OriginalScene;
     void Update()
     {
         int i = 0;
@@ -15,11 +14,11 @@ public class LoadIndexScene : MonoBehaviour
             i++;
             if (i%2==1)
             {
-                SceneManager.LoadScene(3);
+                SceneManager.LoadScene(5);
             }
             else if (i % 2 == 0)
             {
-                SceneManager.LoadScene(OriginalScene.name);
+                SceneManager.LoadScene(2);
             }
         }
     }
